@@ -1,10 +1,10 @@
 
 {
   "reservas": [
-    { "id": 1, "nome": "Hospede 1", "idHospede": 1 },
-    { "id": 2, "nome": "Hospede 2", "idHospede": 2 },
-    { "id": 3, "nome": "Hospede 3", "idHospede": 3 },
-    { "id": 4, "nome": "Hospede 4", "idHospede": 4 }
+    { "id": 1, "nome": "Reserva 1", "Reserva": 1 },
+    { "id": 2, "nome": "Reserva 2", "Reserva": 2 },
+    { "id": 3, "nome": "Reserva 3", "Reserva": 3 },
+    { "id": 4, "nome": "Reserva 4", "Reserva": 4 }
   ],
 
   "funcionario": [
@@ -29,4 +29,5 @@
     
   ]
 }
+
 
