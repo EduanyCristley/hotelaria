@@ -1,12 +1,12 @@
  {
 
-  "servicos": [
+  "servico": [
     { "id": 1, "nome": "Servico 1", "idServico": 1 },
     { "id": 2, "nome": "Servico 2", "idServico": 2 },
     { "id": 3, "nome": "Servico 3", "idServico": 3 },
     { "id": 4, "nome": "Servico 4", "idServico": 4 }
   ],
-  "reservas": [
+  "reserva": [
     { "id": 1, "nome": "Reserva 1", "idQuarto": 1, "tipo": "Tipo 1" },
     { "id": 2, "nome": "Reserva 2", "idQuarto": 2, "tipo": "Tipo 2" },
     { "id": 3, "nome": "Reserva 3", "idQuarto": 3, "tipo": "Tipo 3" },
@@ -17,7 +17,7 @@
     { "id": 3, "nome": "Item 3", "idItem": 3, "tipo": "Tipo 3" }
   ],
 
-  "pedidos": [
+  "pedido": [
     { "id": 1, "nome": "Pedido 1", "idPedido": 1, "tipo": "Tipo 1" },
     { "id": 2, "nome": "Pedido 2", "idPedido": 2, "tipo": "Tipo 2" },
     { "id": 3, "nome": "Pedido 3", "idPedido": 3, "tipo": "Tipo 3" }
