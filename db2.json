@@ -14,11 +14,6 @@
     { "id": 1, "nome": "Item 1", "idItem": 1, "tipo": "Tipo 1" },
     { "id": 2, "nome": "Item 2", "idItem": 2, "tipo": "Tipo 2" },
     { "id": 3, "nome": "Item 3", "idItem": 3, "tipo": "Tipo 3" }
-  ],
-  "pedido": [
-    { "id": 1, "nome": "Pedido 1", "idPedido": 1, "tipo": "Tipo 1" },
-    { "id": 2, "nome": "Pedido 2", "idPedido": 2, "tipo": "Tipo 2" },
-    { "id": 3, "nome": "Pedido 3", "idPedido": 3, "tipo": "Tipo 3" }
   ]
 }
 
