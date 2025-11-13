@@ -1,6 +1,6 @@
 
 {
-"quartos": [
+"quarto": [
     { "id": 1, "nome": "Quarto 1", "idQuarto": 1, "tipo": "Tipo 1" },
     { "id": 2, "nome": "Quarto 2", "idQuarto": 2, "tipo": "Tipo 2" },
     { "id": 3, "nome": "Quarto 3", "idQuarto": 3, "tipo": "Tipo 3" }
@@ -25,6 +25,7 @@
     { "id": 4, "nome": "Pedido 4", "idPedido": 4 }
   ]
 }
+
 
 
 
