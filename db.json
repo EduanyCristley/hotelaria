@@ -1,9 +1,9 @@
 
 {
 "quartos": [
-    { "id": 1, "nome": "Servico 1", "idServico": 1, "tipo": "Tipo 1" },
-    { "id": 2, "nome": "Servico 2", "idServico": 2, "tipo": "Tipo 2" },
-    { "id": 3, "nome": "Servico 3", "idServico": 3, "tipo": "Tipo 3" },
+    { "id": 1, "nome": "Quarto 1", "idServico": 1, "tipo": "Tipo 1" },
+    { "id": 2, "nome": "Quarto 2", "idServico": 2, "tipo": "Tipo 2" },
+    { "id": 3, "nome": "Quarto 3", "idServico": 3, "tipo": "Tipo 3" },
   ],
 
   "funcionario": [
@@ -28,6 +28,7 @@
     
   ]
 }
+
 
 
 
