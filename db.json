@@ -1,10 +1,9 @@
 
 {
-  "reservas": [
-    { "id": 1, "nome": "Reserva 1", "Reserva": 1 },
-    { "id": 2, "nome": "Reserva 2", "Reserva": 2 },
-    { "id": 3, "nome": "Reserva 3", "Reserva": 3 },
-    { "id": 4, "nome": "Reserva 4", "Reserva": 4 }
+"quartos": [
+    { "id": 1, "nome": "Servico 1", "idServico": 1, "tipo": "Tipo 1" },
+    { "id": 2, "nome": "Servico 2", "idServico": 2, "tipo": "Tipo 2" },
+    { "id": 3, "nome": "Servico 3", "idServico": 3, "tipo": "Tipo 3" },
   ],
 
   "funcionario": [
@@ -29,5 +28,6 @@
     
   ]
 }
+
 
 
